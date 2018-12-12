@@ -6,7 +6,7 @@ void main()
   printf("Enter an integer: ");
   scanf("%d", &n);
 
-  for (i=2; i < n; i++)
+  for (i=2; i <= n; i++)
   {
     fac = fac * i;
   }

@@ -14,7 +14,7 @@ void main()
   scanf("%d", &b);
 
   printf("Enter a floating point number: ");
-  scanf("%f", &c);
+  scanf("%f", &d);
 
   printf("Enter a double: ");
   scanf("%lf", &f);
