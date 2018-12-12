@@ -3,6 +3,7 @@
 void main()
 {
   float a, b, c;
+  printf("Largest no. among 3: \n");
   printf("Enter three numbers separated by space: ");
   scanf("%f %f %f", &a, &b, &c);
 

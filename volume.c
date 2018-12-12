@@ -6,6 +6,7 @@ void main()
   float a, sr, cr, ch;
   float pi = 3.1415;
 
+  printf("Volume: \n");
   printf("Cube:\n");
   printf("Enter the length of a side: ");
   scanf("%f", &a);

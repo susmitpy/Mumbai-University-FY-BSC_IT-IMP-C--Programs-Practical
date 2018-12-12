@@ -4,6 +4,7 @@
 void main()
 {
   int num, sum = 0, rem;
+  printf("Sum of Squares of Digits:\n");
   printf("Enter an integer: ");
   scanf("%d", &num);
 

@@ -5,6 +5,7 @@ void cbr(int *);
 void main()
 {
   int n, *p;
+  printf("Call by reference: \n");
   printf("Enter an integer: ");
   scanf("%d", &n);
   printf("Before calling: n = %d\n", n);

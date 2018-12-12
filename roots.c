@@ -4,6 +4,7 @@
 void main()
 {
   float a, b, c, r1, r2, sqt;
+  printf("Roots: \n");
   printf("Enter the values of a, b and c separated by space: ");
   scanf("%f %f %f", &a, &b, &c);
 

@@ -3,6 +3,7 @@
 void main()
 {
   int num, rem, rev = 0;
+  printf("Reverse: \n");
   printf("Enter an integer: ");
   scanf("%d", &num);
 

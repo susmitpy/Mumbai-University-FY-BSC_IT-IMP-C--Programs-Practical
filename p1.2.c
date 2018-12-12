@@ -10,6 +10,8 @@ void main()
   c = 3.14;
   e = 2.1718;
 
+  printf("Displaying pre assigned and user assigned values: \n");
+
   printf("Enter an integer: ");
   scanf("%d", &b);
 

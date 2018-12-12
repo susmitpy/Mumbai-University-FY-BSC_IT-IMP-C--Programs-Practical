@@ -3,6 +3,7 @@
 void main()
 {
   int n;
+  printf("Even odd: \n");
   printf("Enter an integer: ");
   scanf("%d", &n);
 

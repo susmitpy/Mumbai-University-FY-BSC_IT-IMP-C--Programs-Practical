@@ -3,6 +3,7 @@
 void main()
 {
   int n;
+  printf("Month Name Finder: \n");
   printf("Enter a month number: ");
   scanf("%d", &n);
 

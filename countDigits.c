@@ -3,6 +3,7 @@
 void main()
 {
   int num, count = 0;
+  printf("Count no. of digits: \n");
   printf("Enter an integer: ");
   scanf("%d", &num);
 

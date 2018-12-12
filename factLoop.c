@@ -3,6 +3,7 @@
 void main()
 {
   int n, i, fac = 1;
+  printf("Factorial using loop: \n");
   printf("Enter an integer: ");
   scanf("%d", &n);
 

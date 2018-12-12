@@ -3,6 +3,7 @@
 void main()
 {
   float num;
+  printf("Pos - Neg - Zero: \n");
   printf("Enter a number: ");
   scanf("%f", &num);
 

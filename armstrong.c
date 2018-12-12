@@ -4,6 +4,7 @@
 void main()
 {
    int num, org, tot = 0, rem;
+   printf("Armstrong: \n");
    printf("Enter a 3 digit integer: ");
    scanf("%d", &num);
 

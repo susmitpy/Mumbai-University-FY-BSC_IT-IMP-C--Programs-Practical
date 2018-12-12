@@ -5,7 +5,7 @@ void main()
   int a, b, c, n, i;
   a = 0;
   b = 1;
-
+  printf("Fibonnaci Series: \n");
   printf("Enter the length of the fibonnaci series: ");
   scanf("%d", &n);
 

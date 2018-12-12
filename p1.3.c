@@ -3,6 +3,7 @@
 void main()
 {
   double a, b;
+  printf("AddSubMulDiv: \n");
   printf("Enter two numbers separated by space: ");
   scanf("%lf %lf", &a, &b);
 

@@ -3,6 +3,7 @@
 void main()
 {
   int n, count = 3, flag = 0; // prime
+  printf("Prime: \n");
   printf("Enter an integer: ");
   scanf("%d", &n);
 
@@ -12,7 +13,7 @@ void main()
   {
     printf("Unit");
   }
-  else if (n == 2 || n == 3)
+  else if (n == 2)
   {
     printf("Prime");
   }

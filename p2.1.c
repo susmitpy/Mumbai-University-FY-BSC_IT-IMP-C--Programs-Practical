@@ -3,6 +3,7 @@
 void main()
 {
   float a, b, c;
+  printf("Swapping using third variable : \n");
   printf("Enter two numbers separated by space: ");
   scanf("%f %f", &a, &b);
 

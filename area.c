@@ -6,6 +6,7 @@ void main()
   float l, b, s, r;
   float pi = 3.1415;
 
+  printf("Area: \n");
   printf("Rectangle:\n");
   printf("Enter the length and breadth separated by space: ");
   scanf("%f %f", &l, &b);

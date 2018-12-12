@@ -5,6 +5,7 @@ void cbv(int);
 void main()
 {
   int n;
+  printf("Call by value: \n");
   printf("Enter an integer: ");
   scanf("%d", &n);
   printf("Before calling: n = %d\n", n);

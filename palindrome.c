@@ -3,6 +3,7 @@
 void main()
 {
   int num, org, rev = 0, rem;
+  printf("Palindrome: \n");
   printf("Enter an integer: ");
   scanf("%d", &num);
 
