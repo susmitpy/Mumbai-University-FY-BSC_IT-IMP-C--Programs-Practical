@@ -14,10 +14,10 @@ void main()
   printf("Sphere:\n");
   printf("Enter the radius: ");
   scanf("%f", &sr);
-  printf("Volume is %f cubic units", (4.0/3)*(pi)*(pow(r,3)));
+  printf("Volume is %f cubic units", (4.0/3)*(pi)*(pow(sr,3)));
 
   printf("Cylinder:\n");
   printf("Enter the height and radius separated by space: ");
   scanf("%f %f", &ch, &cr);
-  printf("Volume is %f cubic units", pi * pow(r, 2) * h);
+  printf("Volume is %f cubic units", pi * pow(cr, 2) * ch);
 }

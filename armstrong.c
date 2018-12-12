@@ -12,7 +12,7 @@ void main()
    {
      rem = num % 10;
      tot += pow(rem, 3);
-     n /= 10;
+     num /= 10;
    }
 
    printf("The number is: ");

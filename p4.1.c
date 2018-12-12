@@ -11,7 +11,7 @@ void main()
   {
     rem = num % 10;
     sum += pow(rem, 2);
-    n /= 10;
+    num /= 10;
   }
 
   printf("Sum of Squares of Digits: %d\n", sum);
