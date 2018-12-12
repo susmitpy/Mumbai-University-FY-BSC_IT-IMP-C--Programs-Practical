@@ -8,7 +8,7 @@ void main()
   for (i = 0; i < 5; i++)
   {
     printf("Enter the no. %d: ", i+1);
-    scanf("%f", arr[i]);
+    scanf("%f", &arr[i]);
   }
 
   max = arr[0];
